@@ -1,6 +1,10 @@
 #!/usr/bin/python3
-""" this module defines a empty class square """
+"""Documentation for a square class"""
 
-class Square:
-    """ empty class for task 0 """
+
+class Square():
+    """Square class of a quadrilateral with four equal sides
+       Attributes:
+           None
+    """
     pass
