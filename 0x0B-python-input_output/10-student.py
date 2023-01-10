@@ -22,4 +22,4 @@ class Student():
         """Retrieves a dictionary representation of a Student instance."""
         if attrs is not None:
             return {k: v for k, v in self.__dict__.items() if k in attrs}
-        return self.
+        return self.__dict__
